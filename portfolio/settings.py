@@ -27,7 +27,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    "michaelmurithi.herokuapp.com"
+    "michaelmurithi.herokuapp.com",
+    'www.michaelmurithi.com',
+    'michaelmurithi.com'
 
 ]
 
