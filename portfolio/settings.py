@@ -26,7 +26,9 @@ SECRET_KEY = 'nh8t$-e(*roge6buts8sqr5pz*hhh-hi$ffhs&v=msksl$s#(p'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-"https://rocky-lowlands-32334.herokuapp.com"
+    '127.0.0.1',
+    "https://michaelmurithi.herokuapp.com/"
+
 ]
 
 
